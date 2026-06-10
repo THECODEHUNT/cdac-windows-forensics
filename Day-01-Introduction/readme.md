@@ -167,15 +167,3 @@ where every forensic action must be:
 * repeatable
 * legally admissible
 
----
-
-# Repository Structure
-
-```text
-Day-01-Introduction
-│
-├── notes.md
-├── readme.md
-├── screenshots/
-└── tools/
-```
